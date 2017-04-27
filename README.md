@@ -11,7 +11,7 @@ Visibilidad de atributos de instancias de clases: Las clases generadas no cuenta
 
 Referencias a miembros de una clase: Los constructores son debidamente instanciados y utilizados como se evidencia ya que, en LCDTester.java se instancia a ImpresorLCD.java.
 
-Modificaciones en el código
+Modificaciones en el código (Evidenciadas y modificadas en las clases adjuntas en este repositorio)
 
 •	Importar librería Javax.swing para visualizar los cuadros de dialogo
 
